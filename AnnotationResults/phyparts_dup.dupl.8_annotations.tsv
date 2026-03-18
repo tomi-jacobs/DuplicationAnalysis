@@ -1,0 +1,48 @@
+node	gene_id	taxon	panther_id	gene_name	go_terms
+phyparts_dup.dupl.8	DEEC@DN2502_c0_g1_i2	DEEC	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	DEEC@DN2502_c0_g2_i1	DEEC	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	DEEC@DN30709_c0_g1_i1	DEEC	PTHR47947:SF19	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	MECR2@DN2576_c0_g1_i3	MECR2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	MECR2@DN636_c0_g5_i1	MECR2	PTHR47947:SF19	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	SEHU2@DN1166_c0_g1_i7	SEHU2	PTHR47947:SF19	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	SEHU2@DN2614_c0_g1_i1	SEHU2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEHU2@DN5132_c0_g1_i1	SEHU2	PTHR46034:SF20	DCD DOMAIN-CONTAINING PROTEIN NRP-A	
+phyparts_dup.dupl.8	SEHU2@DN746_c0_g1_i7	SEHU2	PTHR24055:SF472	CYCLIN-DEPENDENT KINASE F-4-LIKE ISOFORM X1	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
+phyparts_dup.dupl.8	SEHU2@DN7585_c0_g1_i1	SEHU2	PTHR31963:SF17	PROTEIN, PUTATIVE (DUF3537)-RELATED	
+phyparts_dup.dupl.8	SEPO2@DN11456_c0_g1_i2	SEPO2	PTHR31963:SF17	PROTEIN, PUTATIVE (DUF3537)-RELATED	
+phyparts_dup.dupl.8	SEPO2@DN11456_c0_g1_i3	SEPO2	PTHR31963:SF17	PROTEIN, PUTATIVE (DUF3537)-RELATED	
+phyparts_dup.dupl.8	SEPO2@DN11710_c0_g1_i3	SEPO2	PTHR11709:SF68	LACCASE-13	oxidoreductase activity#GO:0016491;catalytic activity#GO:0003824
+phyparts_dup.dupl.8	SEPO2@DN15128_c0_g2_i1	SEPO2	PTHR11709:SF68	LACCASE-13	oxidoreductase activity#GO:0016491;catalytic activity#GO:0003824
+phyparts_dup.dupl.8	SEPO2@DN1981_c0_g1_i1	SEPO2	PTHR24055:SF559	PROTEIN KINASE DOMAIN-CONTAINING PROTEIN	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
+phyparts_dup.dupl.8	SEPO2@DN1981_c0_g1_i3	SEPO2	PTHR24055:SF472	CYCLIN-DEPENDENT KINASE F-4-LIKE ISOFORM X1	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
+phyparts_dup.dupl.8	SEPO2@DN1981_c0_g1_i7	SEPO2	PTHR24055:SF472	CYCLIN-DEPENDENT KINASE F-4-LIKE ISOFORM X1	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
+phyparts_dup.dupl.8	SEPO2@DN2902_c0_g2_i10	SEPO2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEPO2@DN2902_c0_g2_i5	SEPO2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEPO2@DN2902_c0_g2_i7	SEPO2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEPO2@DN2902_c0_g2_i8	SEPO2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEPO2@DN633_c0_g1_i13	SEPO2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEPO2@DN633_c0_g1_i14	SEPO2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEPO2@DN633_c0_g1_i16	SEPO2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEPO2@DN633_c0_g1_i19	SEPO2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEPO2@DN7336_c0_g1_i3	SEPO2	PTHR47947:SF26	CYTOCHROME P450	
+phyparts_dup.dupl.8	SEPO2@DN7336_c0_g1_i6	SEPO2	PTHR47947:SF19	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	SEVE2@DN1866_c0_g1_i1	SEVE2	PTHR11709:SF68	LACCASE-13	oxidoreductase activity#GO:0016491;catalytic activity#GO:0003824
+phyparts_dup.dupl.8	SEVE2@DN1866_c0_g2_i1	SEVE2	PTHR11709:SF68	LACCASE-13	oxidoreductase activity#GO:0016491;catalytic activity#GO:0003824
+phyparts_dup.dupl.8	SEVE2@DN1866_c0_g2_i2	SEVE2	PTHR11709:SF68	LACCASE-13	oxidoreductase activity#GO:0016491;catalytic activity#GO:0003824
+phyparts_dup.dupl.8	SEVE2@DN1895_c0_g1_i1	SEVE2	PTHR31963:SF17	PROTEIN, PUTATIVE (DUF3537)-RELATED	
+phyparts_dup.dupl.8	SEVE2@DN1895_c0_g1_i2	SEVE2	PTHR31963:SF17	PROTEIN, PUTATIVE (DUF3537)-RELATED	
+phyparts_dup.dupl.8	SEVE2@DN250_c0_g1_i2	SEVE2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEVE2@DN250_c0_g1_i5	SEVE2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEVE2@DN250_c0_g1_i6	SEVE2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEVE2@DN250_c0_g1_i7	SEVE2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	SEVE2@DN4265_c0_g1_i1	SEVE2	PTHR47947:SF19	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	SEVE2@DN4265_c0_g2_i1	SEVE2	PTHR47947:SF19	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	SEVE2@DN5527_c0_g1_i2	SEVE2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEVE2@DN5527_c0_g2_i1	SEVE2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	SEVE2@DN617_c0_g1_i2	SEVE2	PTHR24055:SF559	PROTEIN KINASE DOMAIN-CONTAINING PROTEIN	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
+phyparts_dup.dupl.8	SEVE2@DN617_c0_g1_i4	SEVE2	PTHR24055:SF472	CYCLIN-DEPENDENT KINASE F-4-LIKE ISOFORM X1	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
+phyparts_dup.dupl.8	ZAPE2@DN1399_c0_g2_i1	ZAPE2	PTHR46034:SF37	DCD DOMAIN-CONTAINING PROTEIN NRP	
+phyparts_dup.dupl.8	ZAPE2@DN15478_c0_g1_i1	ZAPE2	PTHR31963:SF17	PROTEIN, PUTATIVE (DUF3537)-RELATED	
+phyparts_dup.dupl.8	ZAPE2@DN28314_c0_g1_i1	ZAPE2	PTHR47947	CYTOCHROME P450 82C3-RELATED	
+phyparts_dup.dupl.8	ZAPE2@DN479_c0_g2_i2	ZAPE2	PTHR11005:SF118	TRIACYLGLYCEROL LIPASE 1	
+phyparts_dup.dupl.8	ZAPE2@DN838_c0_g1_i2	ZAPE2	PTHR24055:SF472	CYCLIN-DEPENDENT KINASE F-4-LIKE ISOFORM X1	transferase activity#GO:0016740;phosphotransferase activity, alcohol group as acceptor#GO:0016773;catalytic activity#GO:0003824;protein serine/threonine kinase activity#GO:0004674;transferase activity, transferring phosphorus-containing groups#GO:0016772;catalytic activity, acting on a protein#GO:0140096;kinase activity#GO:0016301;protein kinase activity#GO:0004672
